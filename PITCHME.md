@@ -101,5 +101,10 @@ Note:
 - Résultat des prévisions scolytes Bourgogne-Franche-Comté à Juillet 2019
 ![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/cnes_pres/raw/master/images/frame_2019-07-15.png)
 
+---
+@transition[fade-in zoom-out]
+- Résultat des prévisions scolytes Bourgogne-Franche-Comté à Août 2019
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/cnes_pres/raw/master/images/frame_2019-08-15.png)
+
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
 ## @color[white](Merci de votre attention)
