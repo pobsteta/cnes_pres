@@ -76,5 +76,32 @@ Note:
 - Résultat des prévisions au format vecteur (canopée)
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/predict_fr_vect25.png)
 
+---
+@transition[fade-in zoom-out]
+- Résultat des prévisions scolytes Bourgogne-Franche-Comté à Mars 2019
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-03-15.png)
+
+---
+@transition[fade-in zoom-out]
+- Résultat des prévisions scolytes Bourgogne-Franche-Comté à Avril 2019
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-04-15.png)
+
+---
+@transition[fade-in zoom-out]
+- Résultat des prévisions scolytes Bourgogne-Franche-Comté à Mai 2019
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-05-15.png)
+
+---
+@transition[fade-in zoom-out]
+- Résultat des prévisions scolytes Bourgogne-Franche-Comté à Juin 2019
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-06-15.png)
+
+---
+@transition[fade-in zoom-out]
+- Résultat des prévisions scolytes Bourgogne-Franche-Comté à Juillet 2019
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-07-15.png)
+
+---
+
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
 ## @color[white](Merci de votre attention)
