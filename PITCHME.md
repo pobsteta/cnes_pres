@@ -24,82 +24,82 @@ Note:
 @transition[fade-in convex-out]
 ## Shiny CNES
 - Interface web de sélection des serveurs images
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2501.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/shinycnes2501.png)
 
 ---
 @transition[convex-in concave-out]
 - Sélection spatio-temporelle des images
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2502.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/shinycnes2502.png)
 
 ---
 @transition[concave-in zoom-out]
 - Sélection des indices spectraux
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes03.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/shinycnes03.png)
 
 ---
 @transition[fade-in convex-out]
 - Résultat du pré-traitement
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2504.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/shinycnes2504.png)
 
 ---
 @transition[fade-in zoom-in]
 - Résultat de la prédiction
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2505.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/shinycnes2505.png)
 
 ---
 @transition[fade-in zoom-out]
 - Données d'entrée
-![Distribution des présences/absences de scolytes](https://github.com/pobsteta/theia2r_presentation/raw/master/images/CIgreen25.png)
+![Distribution des présences/absences de scolytes](https://github.com/pobsteta/cnes_pres/raw/master/images/CIgreen25.png)
 
 ---
 @transition[concave-in zoom-out]
 - Sélection des individus atteints
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes09.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/shinycnes09.png)
 
 ---
 @transition[fade-in convex-out]
 - Processus de calcul 1/2
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/poster01.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/poster01.png)
 
 ---
 @transition[fade-in zoom-out]
 - Processus de calcul 2/2
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/poster02.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/poster02.png)
 
 ---
 @transition[fade-in zoom-out]
 - Résultat des prévisions au format raster
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/predict_fr25.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/predict_fr25.png)
 
 ---
 @transition[fade-in convex-out]
 - Résultat des prévisions au format vecteur (canopée)
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/predict_fr_vect25.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/cnes_pres/raw/master/images/predict_fr_vect25.png)
 
 ---
 @transition[fade-in zoom-out]
 - Résultat des prévisions scolytes Bourgogne-Franche-Comté à Mars 2019
-![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-03-15.png)
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/cnes_pres/raw/master/images/frame_2019-03-15.png)
 
 ---
 @transition[fade-in zoom-out]
 - Résultat des prévisions scolytes Bourgogne-Franche-Comté à Avril 2019
-![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-04-15.png)
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/cnes_pres/raw/master/images/frame_2019-04-15.png)
 
 ---
 @transition[fade-in zoom-out]
 - Résultat des prévisions scolytes Bourgogne-Franche-Comté à Mai 2019
-![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-05-15.png)
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/cnes_pres/raw/master/images/frame_2019-05-15.png)
 
 ---
 @transition[fade-in zoom-out]
 - Résultat des prévisions scolytes Bourgogne-Franche-Comté à Juin 2019
-![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-06-15.png)
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/cnes_pres/raw/master/images/frame_2019-06-15.png)
 
 ---
 @transition[fade-in zoom-out]
 - Résultat des prévisions scolytes Bourgogne-Franche-Comté à Juillet 2019
-![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/theia2r_presentation/raw/master/images/frame_2019-07-15.png)
+![Résultat des prévisions scolytes Bourgogne-Franche-Comté 2019](https://github.com/pobsteta/cnes_pres/raw/master/images/frame_2019-07-15.png)
 
 ---
 
